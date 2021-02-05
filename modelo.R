@@ -33,7 +33,7 @@ library(ROSE)
   #C:/Users/ORLANDO ADVINCULA/R SODATA/3. avanzado/despliegue del modelo
   getwd()
 
-  #02 Rutear a la carpeta de trabajoaa
+  #02 Rutear a la carpeta de trabajoaaaaaa
   
   #03 LECTURA
   dfm<-read.csv("para_modelo190x.csv", header = TRUE, sep = ";", quote = "\"",dec = ".", fill = TRUE)
